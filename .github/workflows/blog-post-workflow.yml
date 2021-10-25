@@ -14,4 +14,4 @@ jobs:
       - name: Pull in latest posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://jdegbau.com/sitemap.xml"
+          feed_list: "https://jdegbau.com/rss.xml"

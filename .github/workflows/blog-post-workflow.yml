@@ -16,5 +16,5 @@ jobs:
         with:
           feed_list: "https://jdegbau.com/feed.xml,https://www.rocketclicks.com/team-member/joshua-degrasse-baumann/feed/"
           feed_names: "Personal Website, Rocket Clicks"
-          template: "- [$title]($url) — $feedName"
+          template: "- [$title]($url) — $feedName$newline"
           tag_post_pre_newline: true

@@ -6,6 +6,6 @@
 - [Quick Google Site Search Bookmarklet](https://jdegbau.com/blog/site-search-bookmarklet/) — Personal Website
 - [8 Lesser Known Facts About Google Analytics Sessions](https://jdegbau.com/blog/lesser-known-google-analytics-session-facts/) — Personal Website
 - [Redirecting Contact Form 7 Forms](https://jdegbau.com/blog/contact-form-7-redirects/) — Personal Website
-- [Revenue vs. Product Revenue: The Case of Mistaken Identity](https://www.rocketclicks.com/client-education/revenue-vs-product-revenue-the-case-of-mistaken-identity/) — Rocket Clicks
+- [Revenue vs. Product Revenue: The Case of Mistaken Identity](https://rocketclicks.com/client-education/revenue-vs-product-revenue-the-case-of-mistaken-identity/) — Rocket Clicks
 
 <!-- BLOG-POST-LIST:END -->
